@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Software Development Engineer with approximately 2+ year of hands-on experience building production-grade SaaS<br>platforms and AI-driven systems. Strong working experience with React.js, Node.js, Laravel, FastAPI, MongoDB, and SQL,<br>along with real-world exposure to integrating Computer Vision models (YOLOv8, v11-seg) and LLM-based pipelines into<br>scalable, multi-tenant architectures. Experienced across the full development lifecycle, including backend APIs, AI service<br>integration, frontend dashboards, and deployment support.
+Software Engineer with 2+ years of experience building production SaaS applications and AI-powered systems. Strong working experience with React.js, Node.js, Laravel, FastAPI, MongoDB, and SQL,<br>along with real-world exposure to integrating Computer Vision models (YOLOv8, v11-seg) and LLM-based pipelines into<br>scalable, multi-tenant architectures. Experienced across the full development lifecycle, including backend APIs, AI service<br>integration, frontend dashboards, and deployment support.
 
 
 ## 🌐 Socials:
